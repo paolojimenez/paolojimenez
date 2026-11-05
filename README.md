@@ -1,9 +1,7 @@
-<a href="https://aicollaboration.vercel.app/paolojimenez/?from=f0efdafac2b69bf9"><img src="readme/card.svg?v=1793738930" alt="" width="1600" /></a>
+<div align="center">
 
-### What I'm building
+<a href="https://dataannotation.vercel.app/paolojimenez/?from=f0efdafac2b69bf9">
+  <img src="https://raw.githubusercontent.com/paolojimenez/paolojimenez/main/readme/card-1793895775.png" alt="Collaboration offer — long-term AI and software work" width="960" />
+</a>
 
-Building small tools and experiments, and this is where it shows up.
-
-- **[AI-CHECKER-LOGS](https://github.com/paolojimenez/AI-CHECKER-LOGS)** — AI CHECKER LOGS is not finished repo , if someone can finish that , good for you :)
-
-[Read the collaboration proposal →](https://aicollaboration.vercel.app/paolojimenez/?from=f0efdafac2b69bf9)
+</div>
